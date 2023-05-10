@@ -7,4 +7,4 @@ gitignoreの方にそういったソフトウェアが書かれているだけ�
 
 This repository is made by a-club for publish my application coded by python3.  
 Originally this dist folder is made by pyinstaller so there are some unpublished application in .gitignore.  
-Please run these software programs at your own risk. Please note that no responsibility will be taken for any damage incurred.
+Please run these software programs at your own risk. Please note that we are not responsible for any damage incurred.

@@ -1,2 +1,1 @@
 関数グラフ.exe filter=lfs diff=lfs merge=lfs -text
-video[[:space:]]&[[:space:]]audio[[:space:]]downloader.exe filter=lfs diff=lfs merge=lfs -text
